@@ -1,0 +1,13 @@
+.a{
+    background-color: rgb(132, 160, 170);
+}
+input[type=submit]{
+    display: block;
+    background-color: #547ecb;
+    color: #ffffff;
+    width: 60px;
+    height: 40px;
+}
+.b{
+    margin-left: 340px;
+}
